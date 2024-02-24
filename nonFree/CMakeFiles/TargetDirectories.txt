@@ -1,0 +1,13 @@
+/Users/michaelr/Desktop/imitation/nonfree/CMakeFiles/edit_cache.dir
+/Users/michaelr/Desktop/imitation/nonfree/CMakeFiles/rebuild_cache.dir
+/Users/michaelr/Desktop/imitation/nonfree/CMakeFiles/list_install_components.dir
+/Users/michaelr/Desktop/imitation/nonfree/CMakeFiles/install.dir
+/Users/michaelr/Desktop/imitation/nonfree/CMakeFiles/install/local.dir
+/Users/michaelr/Desktop/imitation/nonfree/CMakeFiles/install/strip.dir
+/Users/michaelr/Desktop/imitation/nonfree/sift/CMakeFiles/vlsift.dir
+/Users/michaelr/Desktop/imitation/nonfree/sift/CMakeFiles/edit_cache.dir
+/Users/michaelr/Desktop/imitation/nonfree/sift/CMakeFiles/rebuild_cache.dir
+/Users/michaelr/Desktop/imitation/nonfree/sift/CMakeFiles/list_install_components.dir
+/Users/michaelr/Desktop/imitation/nonfree/sift/CMakeFiles/install.dir
+/Users/michaelr/Desktop/imitation/nonfree/sift/CMakeFiles/install/local.dir
+/Users/michaelr/Desktop/imitation/nonfree/sift/CMakeFiles/install/strip.dir
